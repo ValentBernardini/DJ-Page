@@ -296,6 +296,10 @@ body {
     overflow-y:scroll ;
   }
   
+.jumbotron-parallax{
+ background-image: url(./imgs/blackBG.jpg);
+}
+
   .jumbotron img {
     height: 500px;
   }
@@ -412,6 +416,11 @@ body {
     height: 700px;
   }
   
+  .jumbotron-parallax{
+    background-image: url(./imgs/blackBG.jpg);
+   }
+
+
   .jumboImg {
     height: 150px;
   }
@@ -441,6 +450,10 @@ body {
     height: 600px;
   }
   
+  .jumbotron-parallax{
+    background-image: url(./imgs/blackBG.jpg);
+   }
+
   .jumboImg {
     height: 150px;
   }
